@@ -100,8 +100,7 @@ Epoch 5/5
 ## Results! 
 The model I trained here has an accuracy of 87.46%.
 
-## Social Media 
-these are my social media's, stay tuned because I will publish the source code to the predecesor of the mechanics calculator, the statistics calculator, this app managed to gain over 3000+ app installs. 
+## Social Media  
 - [Linkden - Elijah Ahmad](https://www.linkedin.com/in/elijah-ahmad-658a2b199/)
 - [FaceBook - Elijah Ahmad](https://www.facebook.com/elijah.ahmad.71)
 - [Instagram - @ElijahAhmad__](https://www.instagram.com/ElijahAhmad__)
